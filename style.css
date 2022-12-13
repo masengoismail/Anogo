@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=PT+Sans&display=swap');
+main{
+    font-family: 'PT Sans', sans-serif;
+    display: flex;
+    margin: 4rem 3rem;
+}
+h1{
+    font-size: 4.5rem;
+    color: #444448;
+}
+h2{
+    padding-top: 2rem;
+    font-size: 1.5rem;
+    color: #a3a598;
+}
+.texte1{
+    padding: 3rem;
+    text-align: center;
+}
+.texte2{
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    color: white;
+    background-color: black;
+}
+li{
+    padding: 0.5rem 0;
+}
